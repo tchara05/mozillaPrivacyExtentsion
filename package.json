@@ -1,0 +1,15 @@
+{
+  "title": "Browser's Data Configuration Access",
+  "name": "browsersdataconfigurationaccess",
+  "version": "2.0.0",
+  "description": "Privacy Protector For Browser Navigator And Sensitive Data",
+  "main": "lib/extra.js",
+  "author": "Theodoros Charalambous",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
